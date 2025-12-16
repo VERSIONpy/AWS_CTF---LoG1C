@@ -35,7 +35,7 @@ const organizers = [
     github: "#",
   },
   {
-    name: "F4ITH",
+    name: "Noth",
     role: "Developer",
     img: "https://media.licdn.com/dms/image/v2/D5603AQF35RnBB01ypA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708288419548?e=1759363200&v=beta&t=d7eMVZgGPFntv0j2fYigWwv4Lv69eZcUkd7cIA-_hB8",
     linkedin: "#",
@@ -48,6 +48,13 @@ const organizers = [
     linkedin: "#",
     github: "#",
   },
+  {
+    name: "Sri vardhan",
+    role: "Developer",
+    img: "#",
+    linkedin: "#",
+    github: "#",
+  }
 
 
 
